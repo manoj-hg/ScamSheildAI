@@ -24,7 +24,7 @@ export const Hero: React.FC<HeroProps> = ({ onAnalyzeClick, onViewScansClick, on
       {/* Main hero title */}
       <h1 className="text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-white mb-3 sm:mb-4">
         Don&apos;t Trust It.{' '}
-        <span className="bg-gradient-to-r from-cyan-400 via-sky-300 to-indigo-400 bg-clip-text text-transparent">
+        <span className="text-cyan-400 drop-shadow-[0_0_20px_rgba(6,182,212,0.4)]">
           Verify It.
         </span>
       </h1>

@@ -3,6 +3,7 @@
   "appId": "1:651131073514:web:220eb4c56395d7c9e0f893",
   "apiKey": "AIzaSyCGNiUfU6Unq-q1lGZgz2iftfmmo_bEwjc",
   "authDomain": "flowing-courier-1lcf1.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-scamshieldaifake-36b220f5-3ebd-4469-9ec0-fe68b25e0fcb",
   "storageBucket": "flowing-courier-1lcf1.firebasestorage.app",
   "messagingSenderId": "651131073514",
   "measurementId": "",

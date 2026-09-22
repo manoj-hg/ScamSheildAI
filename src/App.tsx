@@ -292,7 +292,7 @@ export default function App() {
         <button
           id="btn-floating-assistant"
           onClick={() => setIsAssistantOpen(true)}
-          className="fixed bottom-20 right-3 sm:bottom-6 sm:right-6 z-40 flex items-center gap-1.5 sm:gap-2 px-3 py-2.5 sm:px-4 sm:py-3 rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-slate-950 font-bold text-xs sm:text-sm shadow-[0_0_25px_rgba(6,182,212,0.45)] transition-all hover:scale-105 active:scale-95 touch-manipulation min-h-[44px]"
+          className="fixed bottom-24 right-4 sm:bottom-6 sm:right-6 z-50 flex items-center gap-1.5 sm:gap-2 px-3.5 py-2.5 sm:px-4 sm:py-3 rounded-full bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-slate-950 font-bold text-xs sm:text-sm shadow-[0_0_25px_rgba(6,182,212,0.45)] transition-all hover:scale-105 active:scale-95 touch-manipulation min-h-[44px]"
           title="Open AI Security Assistant"
         >
           <MessageSquare className="w-4 h-4 text-slate-950 shrink-0" />
