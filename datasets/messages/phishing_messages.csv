@@ -1,0 +1,6 @@
+message,urgency_level,payment_requested,no_interview,scam_label
+"Congratulations! You have been selected without an interview. Pay Rs 4999 refundable laptop security deposit within 30 minutes.",HIGH,1,1,1
+"Hi Alex, thank you for completing the technical round. Our hiring team would like to invite you for a 45 min virtual interview next Tuesday.",NONE,0,0,0
+"Urgent: Your rental agreement is pending. Landlord is in UK. Transfer Rs 25000 advance key deposit via UPI immediately to hold flat.",HIGH,1,0,1
+"Dear candidate, congratulations on your offer. Please review the attached benefits handbook and return signed NDA by end of week.",LOW,0,0,0
+"Direct hiring for Tata Consultancy Services. Pay 1500 registration and medical clearance charges to UPI id tcs-hr@okaxis.",HIGH,1,1,1

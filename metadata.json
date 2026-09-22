@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI — Fake Offer Letter & Phishing Inspector",
+  "description": "AI-powered cybersecurity platform for detecting fake job offers, recruitment scams, rental fraud, and phishing threats with explainable Scam Threat Index.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

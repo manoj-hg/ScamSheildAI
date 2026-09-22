@@ -1,0 +1,7 @@
+url,length,subdomains,dots,has_ip,suspicious_tld,brand_target,label
+"http://microsoft-careers-portal.xyz/login",42,2,2,0,1,"Microsoft",1
+"https://careers.google.com/jobs/results",40,1,2,0,0,"Google",0
+"http://192.168.1.104/amazon-verify/index.php",44,0,3,1,0,"Amazon",1
+"https://apple-id-verify-alert.top/session",41,2,2,0,1,"Apple",1
+"https://www.infosys.com/careers.html",36,1,2,0,0,"Infosys",0
+"http://meta-hr-onboarding-secure.click/auth",43,1,2,0,1,"Meta",1

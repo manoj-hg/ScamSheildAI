@@ -1,0 +1,7 @@
+title,company_profile,has_company_logo,telecommuting,has_questions,salary_range,fraudulent,scam_category
+"Remote Software Developer","Global Tech Solutions Inc - no official site",0,1,0,"$120000 - $180000",1,"Equipment Purchase Scam"
+"Data Entry Clerk","Urgent hiring for online data processing",0,1,0,"$45000 - $65000",1,"Registration Fee Scam"
+"Senior Backend Engineer","Google LLC is an American multinational corporation",1,1,1,"$180000 - $240000",0,"Legitimate"
+"HR Assistant","Immediate joining without interview for remote candidates",0,1,0,"$75000 - $90000",1,"No-Interview Scam"
+"Full Stack Developer","Stripe builds economic infrastructure for the internet",1,1,1,"$160000 - $210000",0,"Legitimate"
+"Junior QA Analyst","Pay refundable training fee before orientation",0,1,0,"$60000 - $80000",1,"Training Fee Scam"
