@@ -1,4 +1,4 @@
-# 🛡️ ScamShield AI — Fake Offer Letter & Phishing Inspector
+ # 🛡️ ScamShield AI — Fake Offer Letter & Phishing Inspector
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
